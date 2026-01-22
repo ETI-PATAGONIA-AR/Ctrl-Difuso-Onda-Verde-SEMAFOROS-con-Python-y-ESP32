@@ -6,7 +6,7 @@ A diferencia de los sistemas tradicionales con tiempos fijos, este enfoque **se 
 
 ⚠️ El proyecto está pensado como **parte de un sistema mayor**, donde este software recibe información de tráfico ya procesada por otra aplicación externa que implementa una camara IP para sensar el flujo vehicular -proximamente estare subiendo esta seccion-.
 
-[![VERenYOUTUBE->>](https://img.youtube.com)](https://www.youtube.com/watch?v=AwRiFOMe59c)
+[![VERenYOUTUBE->>](https://i.ytimg.com/an_webp/AwRiFOMe59c/mqdefault_6s.webp?du=3000&sqp=CO2Px8sG&rs=AOn4CLDnaAE7ZYG0vDuBw41oUMKCO8ySwQ)](https://www.youtube.com/watch?v=AwRiFOMe59c)
 
 
 ---
